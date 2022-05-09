@@ -1,0 +1,14 @@
+#Cars{
+    border: 5px solid green;
+    color:blue ;
+    padding: 15px;
+    text-align: center;
+    background-color: orange;
+}
+#Fruits{
+    border: 5px solid red;
+    color: orange;
+    padding: 15px;
+    text-align: center;
+    background-color: blueviolet;
+}
